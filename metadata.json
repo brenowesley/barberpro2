@@ -1,0 +1,8 @@
+{
+  "name": "BarberBoss SaaS",
+  "description": "A comprehensive SaaS platform for hairdressers and barbers with tiered subscriptions, financial dashboards, and client booking capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
